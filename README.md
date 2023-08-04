@@ -17,7 +17,7 @@ msg: The prompt for image generation (e.g., "cat").
 num: The number of images to generate (e.g., 3).
 size: The desired size for the images (e.g., "512x512").
 ```
-Example URL: http://localhost:5001/api?msg=cat&num=3&size=512x512
+Example URL: http://localhost:5001/api?msg=cat&num=1&size=512x512
 ```
    output : 
      {
